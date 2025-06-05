@@ -1,0 +1,15 @@
+.node {
+    fill: #f8f9fa;
+    stroke: #343a40;
+    stroke-width: 2;
+}
+
+.line {
+    stroke: #343a40;
+    stroke-width: 2;
+}
+
+text {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
